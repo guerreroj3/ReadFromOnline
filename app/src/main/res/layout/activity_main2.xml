@@ -8,10 +8,10 @@
 
 
     <TextView
-        android:id="@+id/FinalSelection"
+        android:id="@+id/FinalResult"
         android:layout_width="277dp"
         android:layout_height="235dp"
-        android:text="TextView"
+        android:hint="Displays Random Restaurant"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
